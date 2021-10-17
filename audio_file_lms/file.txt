@@ -1,1 +1,11 @@
 This folder contains audio files of LMS algo.
+
+original
+https://drive.google.com/file/d/1gdAIhcSNPLxaf6hj7ZzkTtM-V6Cy0CRS/view?usp=sharing
+
+noisy
+https://drive.google.com/file/d/1PJr3J0MxGedpn6-sX6Gms2osGtw2j_EY/view?usp=sharing
+
+clean audio -
+https://drive.google.com/file/d/1llVKfaZnCRGM_I8SYo8nqrPgSNk57qTY/view?usp=sharing
+
